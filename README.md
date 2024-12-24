@@ -36,5 +36,5 @@ Charged off from historical loan data
 
 
 ## Contact
-Created by [@rams1011](https://github.com/rams1011/) and 
+Created by [@rams1011](https://github.com/rams1011) and [@vvw082024](https://github.com/vvw082024)
 
