@@ -18,10 +18,11 @@ Charged off from historical loan data
 - Data set used for analysis [loan.csv](https://github.com/rams1011/Lending-Club-Case-Study/blob/main/loan.csv)
 
 ## Conclusions
+- Applicants with loan purpose small business,educational,house and interest rate >= 15% has more chances of defaulting
 - Any loan with interest rate above 18% has more chances of defaulting
-- Applicants with grades F,G has more chances of defaulting
-- Applicants with loan purpose small business and interest rate greater than 15% has more chances of defaulting
+- Applicants with grades E,F,G and annual income <=40000 has more chances of defaulting
 - Applicants with Annual income <= 90k and Interest >= 17% has more chances of defaulting
+- Applicants with more than one public recorded bankruptcies has more chances of defaulting
 
 ## Technologies Used
 - Python 	 - version 3.12.4
