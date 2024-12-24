@@ -15,7 +15,7 @@
 2. If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 - The business problem we are trying to solve with this project is to identify risky loan applications based on the factors that contibuted to loans being 
 Charged off from historical loan data
-- [loan.csv]()
+- [loan.csv](https://github.com/rams1011/Lending-Club-Case-Study/blob/main/loan.csv)
 
 ## Conclusions
 - Any loan with interest rate above 18% has more chances of defaulting
