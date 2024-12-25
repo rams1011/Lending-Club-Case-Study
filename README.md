@@ -18,7 +18,7 @@ Charged off from historical loan data
 - Data set used for analysis [loan.csv](https://github.com/rams1011/Lending-Club-Case-Study/blob/main/loan.csv)
 
 ## Conclusions
-- Applicants with loan purpose ,small business,educational,house and interest rate >= 15% has more chances of defaulting
+- Applicants with loan purpose as small_business,educational,house and interest rate >= 15% has more chances of defaulting
 - Any loan with interest rate above 18% has more chances of defaulting
 - Applicants with grades E,F,G and annual income <=40000 has more chances of defaulting
 - Applicants with Annual income <= 90k and Interest >= 17% has more chances of defaulting
@@ -32,7 +32,7 @@ Charged off from historical loan data
 - Seaborn  	 - version 0.13.2
 
 ## Acknowledgements
-- This project was inspired by Upgrad live session and video turorials
+- This project was inspired by Upgrad live sessions and video turorials
 - Plots created in this project based on [Seaborn Documentation](https://seaborn.pydata.org/api.html)
 - Technical help from [Stackoverflow](https://stackoverflow.com/)
 
